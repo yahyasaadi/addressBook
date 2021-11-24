@@ -17,7 +17,7 @@ function Address(street, city, country){
     this.country = country;
 }
 
-
+// jQuery Click Listener *** SEARCH THESE ON WEDNESDAY WEEK 4
 
 // User Interface Logic
 $(document).ready(function(){
